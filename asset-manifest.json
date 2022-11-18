@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/busan-attrs/static/css/main.85768c17.css",
+    "main.js": "/busan-attrs/static/js/main.3ca13ee1.js",
+    "index.html": "/busan-attrs/index.html",
+    "main.85768c17.css.map": "/busan-attrs/static/css/main.85768c17.css.map",
+    "main.3ca13ee1.js.map": "/busan-attrs/static/js/main.3ca13ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.3ca13ee1.js"
+  ]
+}
